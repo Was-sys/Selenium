@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-03-05T09:01:20 IST" name="Suite" finished-at="2024-03-05T09:01:44 IST" duration-ms="24032">
+    <groups>
+    </groups>
+    <test started-at="2024-03-05T09:01:20 IST" name="Test" finished-at="2024-03-05T09:01:44 IST" duration-ms="24032">
+      <class name="testcase.SwagLabsD">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:20 IST" name="setup" finished-at="2024-03-05T09:01:33 IST" duration-ms="12974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:33 IST" name="loginTest" data-provider="testdata" finished-at="2024-03-05T09:01:34 IST" duration-ms="571" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_saucen]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:34 IST" name="teardown" finished-at="2024-03-05T09:01:34 IST" duration-ms="151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:34 IST" name="setup" finished-at="2024-03-05T09:01:37 IST" duration-ms="3119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:37 IST" name="loginTest" data-provider="testdata" finished-at="2024-03-05T09:01:37 IST" duration-ms="449" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_uswer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:37 IST" name="teardown" finished-at="2024-03-05T09:01:37 IST" duration-ms="127" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:37 IST" name="setup" finished-at="2024-03-05T09:01:40 IST" duration-ms="2501" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:40 IST" name="loginTest" data-provider="testdata" finished-at="2024-03-05T09:01:40 IST" duration-ms="468" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_useer]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_saucem]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:40 IST" name="teardown" finished-at="2024-03-05T09:01:40 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:40 IST" name="setup" finished-at="2024-03-05T09:01:43 IST" duration-ms="2831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginTest(java.lang.String,java.lang.String)[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:43 IST" name="loginTest" data-provider="testdata" finished-at="2024-03-05T09:01:44 IST" duration-ms="529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[standard_user]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[secret_sauce]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:testcase.SwagLabsD@1d296da]" started-at="2024-03-05T09:01:44 IST" name="teardown" finished-at="2024-03-05T09:01:44 IST" duration-ms="122" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- testcase.SwagLabsD -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
